@@ -21,7 +21,7 @@ The project uses **TF‑IDF features** with a **neural network** and includes a 
 **Libraries/Tools:** TensorFlow, Keras, Scikit‑Learn, Matplotlib, Seaborn, Hugging Face Transformers  
 **Environment:** Google Colab  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo/blob/main/Emotion_Detection_using_AI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Maham-Arif7/Skillerz_Emotion_Detection_using_AI/blob/main/Emotion_Detection_using_AI.ipynb)
 
 ---
 
